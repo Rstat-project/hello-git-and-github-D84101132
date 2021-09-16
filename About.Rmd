@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "賴宥全"
+author: "賴宥全111"
 date: "`r Sys.Date()`"
 output: html_document
 ---
